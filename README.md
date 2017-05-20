@@ -11,6 +11,7 @@ Aqui neste repositório deixarei disponível todo o material que utilizaremos em
 * 23/04/2017 - Criação do curso com o plano de ensino, exercícios e slides utilizados em sala de aula
 * 30/04/2017 - Este arquivo foi adicionado
 * 16/05/2017 - Adicionados arquivos iris.data, python-wikipedia.txt e RealEstate.csv para exercícios e exemplos de E/S em arquivos.
+* 19/05/2017 - Adicionados os arquivos necessários para a realização do trabalho final da disciplina
 
 ### Professor Arthur Gouveia
 
