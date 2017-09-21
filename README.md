@@ -11,6 +11,8 @@ Aqui neste repositório deixarei disponível todo o material que utilizaremos em
 * 23/04/2017 - Criação do curso com o plano de ensino, exercícios e slides utilizados em sala de aula
 * 30/04/2017 - Este arquivo foi adicionado
 * 16/05/2017 - Adicionados arquivos iris.data, python-wikipedia.txt e RealEstate.csv para exercícios e exemplos de E/S em arquivos.
+* 19/05/2017 - Adicionados os arquivos necessários para a realização do trabalho final da disciplina
+* 22/05/2017 - Atualização dos slides, do arquivo `Exercício Python.ipynb` e deste arquivo com link para artigo com os principais módulos Python para DS em 2017
 
 ### Professor Arthur Gouveia
 
@@ -180,6 +182,7 @@ https://docs.python.org/3/library/functions.html#open
 * Módulo csv: https://docs.python.org/3/library/csv.html
 * Módulo sqlite3 para banco de dados SQLite: https://docs.python.org/3/library/sqlite3.html
 * Principais módulos para ciência de dados:
+    * Os principais módulos em 2017: https://medium.com/activewizards-machine-learning-company/top-15-python-libraries-for-data-science-in-in-2017-ab61b4f9b4a7
     * Statsmodels: http://statsmodels.sourceforge.net/
     * scikit-learn: http://scikit-learn.org/stable/
     * NumPy: http://www.numpy.org/
