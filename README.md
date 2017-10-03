@@ -8,11 +8,13 @@ Aqui neste repositório deixarei disponível todo o material que utilizaremos em
 
 ### Atualizações:
 
-* 23/04/2017 - Criação do curso com o plano de ensino, exercícios e slides utilizados em sala de aula
-* 30/04/2017 - Este arquivo foi adicionado
-* 16/05/2017 - Adicionados arquivos iris.data, python-wikipedia.txt e RealEstate.csv para exercícios e exemplos de E/S em arquivos.
-* 19/05/2017 - Adicionados os arquivos necessários para a realização do trabalho final da disciplina
+* 03/10/2017 - Inserção do material para o trabalho final e do 10 minutes to pandas
+* 21/09/2017 - Atualização do repo com o material da segunda oferta da disciplina
 * 22/05/2017 - Atualização dos slides, do arquivo `Exercício Python.ipynb` e deste arquivo com link para artigo com os principais módulos Python para DS em 2017
+* 19/05/2017 - Adicionados os arquivos necessários para a realização do trabalho final da disciplina
+* 16/05/2017 - Adicionados arquivos iris.data, python-wikipedia.txt e RealEstate.csv para exercícios e exemplos de E/S em arquivos.
+* 30/04/2017 - Este arquivo foi adicionado
+* 23/04/2017 - Criação do curso com o plano de ensino, exercícios e slides utilizados em sala de aula
 
 ### Professor Arthur Gouveia
 
